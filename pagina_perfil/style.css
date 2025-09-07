@@ -1,0 +1,9 @@
+.title-page{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: antiquewhite;
+}
+.foto-perfil{
+    background-color: blue;
+    border-radius: 10px;
+    align-items: center;
+}
