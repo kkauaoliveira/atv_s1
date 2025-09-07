@@ -1,20 +1,20 @@
-.title-page{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: antiquewhite;
-    text-align: center;
-    margin: auto;
-    height: 60px;
-    width: auto;
-    
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
 }
-.foto-perfil{
-    background-color: blue;
-    justify-content: center;
-    align-items: center;
-    border-radius: 125px;
-    text-align: center;
-    height: 250px;
-    width: 250px;
-    margin: auto;
-    margin-top: 10px;
+
+.title-page {
+  background-color: antiquewhite;
+  padding: 15px;
+}
+
+.foto-perfil {
+  margin: 20px auto;
+}
+
+.foto-perfil img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background-color: red;
 }
