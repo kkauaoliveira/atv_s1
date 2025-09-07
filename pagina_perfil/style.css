@@ -4,6 +4,11 @@
 }
 .foto-perfil{
     background-color: blue;
-    border-radius: 10px;
+    justify-content: center;
     align-items: center;
+    border-radius: 125px;
+    text-align: center;
+    height: 250px;
+    width: 250px;
+    margin: auto;
 }
