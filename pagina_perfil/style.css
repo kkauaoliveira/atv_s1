@@ -1,6 +1,11 @@
 .title-page{
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: antiquewhite;
+    text-align: center;
+    margin: auto;
+    height: 60px;
+    width: auto;
+    
 }
 .foto-perfil{
     background-color: blue;
@@ -11,4 +16,5 @@
     height: 250px;
     width: 250px;
     margin: auto;
+    margin-top: 10px;
 }
